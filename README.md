@@ -83,6 +83,3 @@ Jupyter Notebook
 This project demonstrates the application of Random Forest regression in predicting the bearing capacity of shallow foundations. The results show that machine learning can effectively capture complex soil-structure interactions and provide fast approximations for geotechnical design.
 
 Author
-Dappa Precious
-Olhaid (CryptoKnight)
-Machine Learning & Geotechnic
